@@ -1,4 +1,4 @@
-# First Project
+# Introduce Myself
 
 - 이름: **최주연**
 - 학과: **산업정보시스템전공**
